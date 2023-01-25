@@ -1,5 +1,5 @@
 
-## fork 뜬 나의 용도/목적
+# fork 뜬 나의 용도/목적
 
 낯선 파이토치<br>
 책 읽으면서 메모용(주석)<br>
@@ -9,7 +9,10 @@
  = 머신러닝과 딥러닝 모델을 쉽게 구현할 수 있도록 편의 기능 제공하는 프레임워크<br>
  = 파이썬 다움을 가장 잘 살린 딥러닝 프레임워크<br>
 
-
+<br>
+<br>
+<br>
+<br>
 
 [![Build Status](https://travis-ci.org/keon/3-min-pytorch.svg?branch=master)](https://travis-ci.org/keon/3-min-pytorch)
 
