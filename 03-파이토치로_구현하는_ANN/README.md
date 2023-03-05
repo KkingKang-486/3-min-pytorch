@@ -1,5 +1,6 @@
 # 파이토치로 구현하는 ANN
 
+ANN = 인공신경망(Aritificial Neural Network-ANN)
 파이토치를 이용하여 가장 기본적인 인공 신경망을 구현하고 모델을 저장, 재사용하는 방법까지 배웁니다.
 
 * 텐서와 Autograd
